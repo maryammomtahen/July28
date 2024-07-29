@@ -1,4 +1,4 @@
-Patient_ID,Reference ,TimePoint,Wavelength,"Side(H:0, Uh:1)",Min_reflectance,Ethnicity,Age,Tumor_type,Cancer_side,Node_involved,Tumor_grading,Biopsy_LVI,Type_of_surgery,Pathological_grading,Breast_density
+Patient_ID,Reference ,TimePoint,Wavelength,Side,Min_reflectance,Ethnicity,Age,Tumor_type,Cancer_side,Node_involved,Tumor_grading,Biopsy_LVI,Type_of_surgery,Pathological_grading,Breast_density
 7,10,0,690,1,0.21573,0,52,0,1,0,2,2,1,4,3
 7,10,0,690,0,0.21749,0,52,0,1,0,2,2,1,4,3
 7,10,0,750,1,0.20747,0,52,0,1,0,2,2,1,4,3
